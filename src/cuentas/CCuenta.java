@@ -8,10 +8,21 @@ package cuentas;
  * 
  */
 public class CCuenta {
-
+    /**
+     * Nombre de la persona que tiene la cuenta
+     */
     private String nombre;
+    /**
+     * Numero completo de la cuenta bancaria
+     */
     private String cuenta;
+    /**
+     * Saldo de la cuenta
+     */
     private double saldo;
+    /**
+     * Saldo que tiene la cuenta
+     */
     private double tipoInterés;
     
     /**
